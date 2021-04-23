@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">UniversityApp</string>
     <string name="name">vamsi</string>
+    <string name="label">Added via feature 2 branch</string>
 </resources>
